@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="254px" height="254px" viewBox="0 0 254 254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>LuminaIconBlueStarLogoMarkCircleFill</title>
+    <defs>
+        <path d="M0,0 L253.477753,0 L253.477753,253.477753 L0,253.477753 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="LuminaIconBlueStarLogoMarkCircleFill" stroke="none" fill="none" transform="translate(0.3894, 0.3894)" xlink:href="#path-1">
+        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        <circle id="Oval-2" fill="#54FFB1" fill-rule="evenodd" cx="126.738877" cy="126.738877" r="126.738877"></circle>
+        <path d="M62.1888766,191.288877 C72.7088766,201.808877 98.9288766,193.558877 126.738877,172.858877 C154.548877,193.568877 180.758877,201.818877 191.288877,191.288877 C201.818877,180.758877 193.558877,154.548877 172.858877,126.738877 C193.568877,98.9288766 201.818877,72.7188766 191.288877,62.1888766 C180.768877,51.6688766 154.548877,59.9188766 126.738877,80.6188766 C98.9288766,59.9088766 72.7188766,51.6588766 62.1888766,62.1888766 C51.6688766,72.7088766 59.9188766,98.9288766 80.6188766,126.738877 C59.9088766,154.548877 51.6588766,180.758877 62.1888766,191.288877 Z" id="Path" fill="#0042FF" fill-rule="nonzero"></path>
+    </g>
+</svg>
